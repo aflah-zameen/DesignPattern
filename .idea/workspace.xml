@@ -5,36 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5bc62db-27a9-41a3-89bc-c75bff0d14b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/.idea/FactoryMethodDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/.idea/FactoryMethodDesign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/NotificationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/NotificationApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/.idea/FactoryMethodDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/.idea/FactoryMethodDesign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/EmailNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/EmailNotification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/EmailNotificationCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/EmailNotificationCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/Notification.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/Notification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/NotificationApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/NotificationApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/NotificationCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/NotificationCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/SMSNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/SMSNotification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethodDesign/out/production/FactoryMethodDesign/SMSNotificationCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/out/production/FactoryMethodDesign/SMSNotificationCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderPattern/BuilderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrototypeDesignPattern/PrototypeDesignPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2x05zArnU3oNxnq8TRT6FcfuhLD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,13 +37,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BuilderMain.executor": "Run",
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/aflah/Desktop/DesignPatterns"
+    "last_opened_file_path": "/home/aflah/Desktop/DesignPatterns",
+    "onboarding.tips.debug.path": "/home/aflah/Desktop/DesignPatterns/PrototypeDesignPattern/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DesignPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DesignPatterns" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b5bc62db-27a9-41a3-89bc-c75bff0d14b3" name="Changes" comment="" />
